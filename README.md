@@ -48,12 +48,8 @@ HyperGC/
 │ ├── evaluation.py
 │ ├── layers.py
 │ ├── loader.py
-│ ├── model_loss.py  # variant of HyperGC model (V3)
-│ ├── model_partial.py # variant of HyperGC model (V1,V2)
-│ ├── models.py # HyperGC (V4)
+│ ├── models.py 
 │ └── utils.py
-├── ablation_baseline.py # variant of HyperGC model (V1,V2)
-├── ablation_loss.py  # variant of HyperGC model (V3)
 ├── main.py 
 ├── config.yaml
 ├── requirements.txt
