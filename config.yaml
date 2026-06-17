@@ -1,0 +1,54 @@
+cora_cite:
+  batch_size_1: null
+  batch_size_2: null
+  
+
+citeseer_cite:
+  batch_size_1: null
+  batch_size_2: null
+  
+
+pubmed_cite:
+  batch_size_1: null
+  batch_size_2: 4096
+  
+
+cora_coauth:
+  batch_size_1: null
+  batch_size_2: null
+  #  task: node
+
+dblp_copub:
+  batch_size_1: 4096
+  batch_size_2: 1024
+  
+
+dblp_coauth:
+  batch_size_1: 8196
+  batch_size_2: 2048
+  batch_size: 8000
+
+news:
+  batch_size_1: null
+  batch_size_2: 8192
+  
+
+modelnet_40:
+  batch_size_1: null
+  batch_size_2: 8192
+  
+
+aminer:
+  batch_size_1: null
+  batch_size_2: 8192
+  
+  
+imdb:
+  batch_size_1: null
+  batch_size_2: null
+  #  task: edge
+
+house:
+  batch_size_1: null
+  batch_size_2: null
+  
