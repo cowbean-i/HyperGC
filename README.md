@@ -10,7 +10,7 @@ This repository provides the official implementation of **HyperGC**, a self-supe
 
 ## Overview
 
-![HyperGC Overview](figs/overview.gif)
+![HyperGC Overview](figs/overview.png)
 
 HyperGC addresses two fundamental challenges in generative hypergraph representation learning:
 
